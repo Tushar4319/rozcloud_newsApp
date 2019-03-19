@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">News App</string>
+
+    <string-array name="titles">
+        <item>Auto</item>
+        <item>Business</item>
+        <item>Cricket</item>
+        <item>Education</item>
+        <item>Entertainment</item>
+        <item>Health</item>
+        <item>Offbeat</item>
+        <item>Politic</item>
+        <item>Sports</item>
+        <item>Technology</item>
+        <item>World</item>
+        <item>Lifestyle</item>
+    </string-array>
+
 </resources>
